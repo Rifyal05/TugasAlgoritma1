@@ -1,5 +1,4 @@
 1. Identifikasi Masalah.
-
    Dalam perkuliahan, kita tau ada yang namanya jadwal kuliah,waktu dan ruangan yang digunakan.
    kita mungkin akan merasa ribet jika harus harus mencari dan membuka file yang telah di bagikan oleh prodi setiap hari untuk melihat jadwal 
    hari ini.
