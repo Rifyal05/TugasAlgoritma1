@@ -1,4 +1,5 @@
 1. Identifikasi Masalah.
+   
    Dalam perkuliahan, kita tau ada yang namanya jadwal kuliah,waktu dan ruangan yang digunakan.
    kita mungkin akan merasa ribet jika harus harus mencari dan membuka file yang telah di bagikan oleh prodi setiap hari untuk melihat jadwal 
    hari ini.
@@ -30,7 +31,7 @@ D. Menampilkan output berdasarkan key ata inputan pengguna
   '''print(f"Kata kunci hari yang di input adalah  {input_hari}, berdasarkan kata kunci yang anda masukkan, tidak ada jadwal kuliah hari ini.")'''
    7. Kode ini akan dijaankan jika hasil ouput dari input-an pengguna menghasilkan nilai (none).
 
-2. Operator:
+3. Operator:
 
    (=) Operator penugasan untuk menyimpan nilai ke dalam variabe
    (.) Operator dot notation untuk mengakses method atau atribut dari suatu objek. Digunakan untuk mengakses method get() dan capitalize() dari string dan dictionary.
