@@ -70,4 +70,5 @@ g. Kode ini akan dijaankan jika hasil ouput dari input-an pengguna menghasilkan 
 #3. Flowchart
     Berikut flowchart yang digunakan dalam kode tersebut:
     
-![START](https://github.com/Rifyal05/TugasAlgoritma1/assets/145568253/5f3b9a1a-9089-4afa-a0ad-0b9f5699c41b)
+
+![START (1)](https://github.com/Rifyal05/TugasAlgoritma1/assets/145568253/cb3dfd1b-a2c4-48e7-a5a2-7c2342000b48)
