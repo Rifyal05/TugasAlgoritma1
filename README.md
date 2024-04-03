@@ -68,7 +68,8 @@ g. Kode ini akan dijaankan jika hasil ouput dari input-an pengguna menghasilkan 
    capitalize() dari string dan dictionary.
 
 #3. Flowchart
-    Berikut flowchart yang digunakan dalam kode tersebut:
+
+Berikut flowchart yang digunakan dalam kode tersebut:
     
 
 ![START (1)](https://github.com/Rifyal05/TugasAlgoritma1/assets/145568253/cb3dfd1b-a2c4-48e7-a5a2-7c2342000b48)
